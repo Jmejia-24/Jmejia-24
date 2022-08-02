@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Byron Mejia</h1>
-<h3 align="center">Hi, I'm Byron, I'm passionate about technology and learning new things in the world of programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Hi, I'm Byron Mejia, I'm passionate about technology and app development.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/929254350218477588/929254423249711144/favpng_computer-programming-programmer-clip-art.png?width=719&height=567">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jmejia-24&label=Profile%20views&color=0e75b6&style=flat" alt="Jmejia-24" /> </p>
