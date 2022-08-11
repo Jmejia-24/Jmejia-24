@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **iOS app development**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **.NET**
 
 - 💬 Ask me about **IOS, SwiftUI, UIKit**
 
