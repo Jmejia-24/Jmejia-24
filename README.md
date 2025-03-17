@@ -4,7 +4,13 @@
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=Jmejia-24&label=Profile%20views&color=0e75b6&style=flat" alt="Jmejia-24" />  </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/929254350218477588/929254423249711144/favpng_computer-programming-programmer-clip-art.png?ex=67d90d1f&is=67d7bb9f&hm=9071d60ab942271708d5b7408a391e2fdbfdf80988b622118c5db399d67ce778&=&format=webp&quality=lossless&width=743&height=585">
+<p align="center">
+  <img 
+    src="https://cdn.discordapp.com/attachments/929254350218477588/929254423249711144/favpng_computer-programming-programmer-clip-art.png?ex=67d90d1f&is=67d7bb9f&hm=9071d60ab942271708d5b7408a391e2fdbfdf80988b622118c5db399d67ce778&"
+    alt="Coding"
+    width="400"
+  />
+</p>
 
 ## 🙋‍♂️ About Me
 
@@ -46,6 +52,7 @@
 
 <p align="center">
     <a href="https://github.com/Jmejia-24/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Byron Mejia's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jmejia-24&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Byron Mejia's streak" src="https://nirzak-streak-stats.vercel.app/?user=Jmejia-24&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
