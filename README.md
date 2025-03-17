@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **iOS, SwiftUI, UIKit, and bringing user interfaces to life**
 
-- 📫 Reach me at **[bayronmejiajarquin@gmail.com](mailto:bayronmejiajarquin@gmail.com)**
+- 📫 Reach me at **[byroniosdeveloper@gmail.com](mailto:byroniosdeveloper@gmail.com)**
 
 - ⚡ Fun fact: **I'm an avid online gamer and enjoy injecting humor into coding 😄**
 
