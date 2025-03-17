@@ -4,7 +4,7 @@
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=Jmejia-24&label=Profile%20views&color=0e75b6&style=flat" alt="Jmejia-24" />  </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/929254350218477588/929254423249711144/favpng_computer-programming-programmer-clip-art.png?ex=6655741f&is=6654229f&hm=7854102c202c772648944cbe822248fd7e82966d0dcfe5776da04ec04392bf16&=&format=webp&quality=lossless&width=743&height=585">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/929254350218477588/929254423249711144/favpng_computer-programming-programmer-clip-art.png?ex=67d90d1f&is=67d7bb9f&hm=9071d60ab942271708d5b7408a391e2fdbfdf80988b622118c5db399d67ce778&=&format=webp&quality=lossless&width=743&height=585">
 
 ## 🙋‍♂️ About Me
 
