@@ -8,7 +8,7 @@
   <img 
     src="https://cdn.discordapp.com/attachments/929254350218477588/929254423249711144/favpng_computer-programming-programmer-clip-art.png?ex=67d90d1f&is=67d7bb9f&hm=9071d60ab942271708d5b7408a391e2fdbfdf80988b622118c5db399d67ce778&"
     alt="Coding"
-    width="400"
+    width="300"
   />
 </p>
 
